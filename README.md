@@ -1,3 +1,3 @@
-# [Deep0Thinking](http://Deep0Thinking.github.io)
+# [Deep0Thinking](http://Deep0Thinking.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep0thinking&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep0thinking&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
