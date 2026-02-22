@@ -1,5 +1,5 @@
-# [Deep0Thinking](http://Deep0Thinking.com)
+# Hey, I'm Yiyang (Louis) Liu 👋
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+- 🎓 Math undergrad @ [Carnegie Mellon University](https://www.cmu.edu/) (Discrete Mathematics & Logic)  
+- 🔬 Formalization in Lean · AI / Automated theorem proving  
+- 🔗 https://Deep0Thinking.com
