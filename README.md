@@ -1,4 +1,4 @@
-# Hey, I'm Yiyang (Louis) Liu 👋
+# Hi, this is Yiyang (Louis) Liu 👋
 
 - 🎓 Math undergrad @ [Carnegie Mellon University](https://www.cmu.edu/) (Discrete Mathematics & Logic)  
 - 🔬 Formalization in Lean · AI / Automated theorem proving  
